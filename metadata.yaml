@@ -1,5 +1,8 @@
 _repo: Nick-Carter-Stories-No-155-August-28-1915-The-Gordon-Elopement-or-Nick-Carters-Three-Of-A-Kin__68108
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68108-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '54574'
     url: http://www.gutenberg.org/2009/agents/54574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68108#Nick-Carter-Stories-No-155-August-28-1915-The-Gordon-Elopement-or-Nick-Carters-Three-Of-A-Kin_
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68108'
